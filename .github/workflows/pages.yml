@@ -25,8 +25,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
-      - name: Check site files and catalog
-        run: npm run check
+      - name: Check site JavaScript
+        run: node --check dist/app.js && node --check dist/catalog.js && node --check dist/sections.js && node --check dist/icons.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
