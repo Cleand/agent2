@@ -1,0 +1,143 @@
+{
+  "source": "https://stage.neordinary.xyz/",
+  "retrieved": "2026-09-25",
+  "assets": [
+    {
+      "file": "logo.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/design-logo/a92e15f4-6c13-402f-b28c-f00e97c8a1e2.png",
+      "bytes": 5340
+    },
+    {
+      "file": "shuka-campaign.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/6b907cfe-c4a2-41d5-9174-839f9d2d8917.jpg",
+      "bytes": 124178
+    },
+    {
+      "file": "towels.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/d936c322-c6e5-4fd7-92ab-96db05e2484f.jpg",
+      "bytes": 16744
+    },
+    {
+      "file": "blanket.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/8c304db7-7ae3-47bf-b832-dccd59096063.jpg",
+      "bytes": 98698
+    },
+    {
+      "file": "songwol.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/dfefc0e5-04c7-4844-8cb4-bf5167a5957b.jpg",
+      "bytes": 148455
+    },
+    {
+      "file": "ecobag.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/2ca7ee1a-00f3-4129-92da-03fedba1d22c.png",
+      "bytes": 111204
+    },
+    {
+      "file": "tumbler.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/3bebe8cc-5f64-4a16-bf71-ddae59be2c75.jpg",
+      "bytes": 18492
+    },
+    {
+      "file": "battery.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/074b3382-86dd-42fa-87fd-eb357ece9214.jpg",
+      "bytes": 30154
+    },
+    {
+      "file": "locknlock.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/41622da4-f204-4a8f-80d3-53b8c7a789b3.jpg",
+      "bytes": 66928
+    },
+    {
+      "file": "umbrella.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/e97e3a5d-d1a2-459e-bbee-5a19ca71d381.jpg",
+      "bytes": 98383
+    },
+    {
+      "file": "diary.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/9426ffa0-9e9a-4f82-98e6-a8139c7dd817.jpg",
+      "bytes": 237912
+    },
+    {
+      "file": "hotpack.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/product-image/ed781169-018c-49fd-9aa0-32fac1649155.jpg",
+      "bytes": 13148
+    },
+    {
+      "file": "cat-tumbler.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/cd1a1875-036f-4e5d-b484-e1c11fc46d14.png",
+      "bytes": 6700
+    },
+    {
+      "file": "cat-towel.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/8bccfc51-a5ad-45d0-aa2b-fb283459c5ef.png",
+      "bytes": 8713
+    },
+    {
+      "file": "cat-battery.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/1923713f-5a73-422f-8b3a-0b639aec85c3.png",
+      "bytes": 7578
+    },
+    {
+      "file": "cat-bag.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/81dde333-eb96-48d9-96ee-baa5befe8028.png",
+      "bytes": 9385
+    },
+    {
+      "file": "cat-pen.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/e1d7ad67-efef-404f-8cef-f81105e765ff.png",
+      "bytes": 5482
+    },
+    {
+      "file": "cat-umbrella.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/c298f9d2-ffa5-4c37-929b-a0b4c367c964.png",
+      "bytes": 7915
+    },
+    {
+      "file": "cat-blanket.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/56e3d445-5db8-4d85-97a8-ea80fcdfdca1.png",
+      "bytes": 10922
+    },
+    {
+      "file": "cat-diary.png",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/39fbaf3b-8001-4c9a-b79a-d7b7c9ce54fc.png",
+      "bytes": 8416
+    },
+    {
+      "file": "season-diary.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/exhibition-list-image/4f1bc7e5-a6c4-41d5-b3b2-0630a461318a.jpg",
+      "bytes": 28253
+    },
+    {
+      "file": "season-tumbler.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/exhibition-list-image/7b13d5db-e8c2-49d0-8a1f-1afbba6d2ec5.jpg",
+      "bytes": 27788
+    },
+    {
+      "file": "season-agency.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/exhibition-list-image/84ce42b0-1bce-41e3-98eb-8668ac2561b0.jpg",
+      "bytes": 35274
+    },
+    {
+      "file": "welcome.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/exhibition-list-image/b75539d7-f223-4703-a268-df44a508a61c.jpg",
+      "bytes": 53764
+    },
+    {
+      "file": "promotion.jpg",
+      "url": "https://giftco-stage-files.s3.ap-northeast-2.amazonaws.com/resources/main-page-content/85d24d7c-c7e4-4268-8045-6f03d858df59.jpg",
+      "bytes": 113703
+    },
+    {
+      "file": "shuka-portrait.png",
+      "url": "https://artsro.com/HyAdmin/upload/goodFile/F120250820120106.png",
+      "sourcePage": "https://www.artsro.com/right/enter_view.html?CatNo=129&GoIdx=2992",
+      "usage": "Local concept only. Commercial campaign usage rights not verified. Replace with approved model asset before publication."
+    },
+    {
+      "file": "PretendardVariable.woff2",
+      "url": "https://github.com/orioncactus/pretendard",
+      "license": "SIL Open Font License 1.1; see FONT-LICENSE.txt"
+    }
+  ],
+  "usage": "Existing Giftco assets reused for requested local implementation; confirm production usage scope with brand owner."
+}

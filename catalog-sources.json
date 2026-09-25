@@ -1,0 +1,406 @@
+{
+  "verifiedOn": "2026-09-25",
+  "note": "Static public product data snapshot; purpose assignments are editorial, not sales rankings. Refresh before production use.",
+  "products": [
+    {
+      "id": 38194,
+      "url": "https://stage.neordinary.xyz/products/goods-38194",
+      "name": "로페리아 40수 코마사 190g 타월 2P 세트",
+      "minimumQuantity": 50,
+      "productionDays": [
+        2,
+        3
+      ],
+      "quantityPrices": [
+        [
+          50,
+          15406
+        ],
+        [
+          100,
+          15053
+        ],
+        [
+          150,
+          14700
+        ],
+        [
+          250,
+          14347
+        ],
+        [
+          500,
+          13994
+        ],
+        [
+          1000,
+          13642
+        ],
+        [
+          2500,
+          13289
+        ]
+      ]
+    },
+    {
+      "id": 29033,
+      "url": "https://stage.neordinary.xyz/products/goods-29033",
+      "name": "모스니에 루프밴드 진공 텀블러 350ml",
+      "minimumQuantity": 30,
+      "productionDays": [
+        4,
+        5
+      ],
+      "quantityPrices": [
+        [
+          30,
+          11790
+        ],
+        [
+          50,
+          11520
+        ],
+        [
+          100,
+          11250
+        ],
+        [
+          300,
+          10980
+        ],
+        [
+          500,
+          10710
+        ],
+        [
+          1000,
+          10440
+        ],
+        [
+          3000,
+          10170
+        ]
+      ]
+    },
+    {
+      "id": 35272,
+      "url": "https://stage.neordinary.xyz/products/goods-35272",
+      "name": "친환경 리유저블 에코백 (소)",
+      "minimumQuantity": 100,
+      "productionDays": [
+        3,
+        5
+      ],
+      "quantityPrices": [
+        [
+          100,
+          983
+        ],
+        [
+          300,
+          960
+        ],
+        [
+          500,
+          938
+        ],
+        [
+          1000,
+          915
+        ],
+        [
+          3000,
+          893
+        ],
+        [
+          5000,
+          870
+        ],
+        [
+          10000,
+          848
+        ]
+      ]
+    },
+    {
+      "id": 38828,
+      "url": "https://stage.neordinary.xyz/products/goods-38828",
+      "name": "도킹형 고속충전 보조배터리 5,000mAh",
+      "minimumQuantity": 20,
+      "productionDays": [
+        5,
+        7
+      ],
+      "quantityPrices": [
+        [
+          20,
+          19650
+        ],
+        [
+          50,
+          19200
+        ],
+        [
+          100,
+          18750
+        ],
+        [
+          300,
+          18300
+        ],
+        [
+          500,
+          17850
+        ],
+        [
+          1000,
+          17400
+        ],
+        [
+          3000,
+          16950
+        ]
+      ]
+    },
+    {
+      "id": 39067,
+      "url": "https://stage.neordinary.xyz/products/goods-39067",
+      "name": "송월타월 코마 40수 180g 세면타월",
+      "minimumQuantity": 100,
+      "productionDays": [
+        3,
+        5
+      ],
+      "quantityPrices": [
+        [
+          100,
+          5438
+        ],
+        [
+          300,
+          5191
+        ],
+        [
+          500,
+          5026
+        ],
+        [
+          1000,
+          4944
+        ],
+        [
+          2000,
+          4862
+        ],
+        [
+          3000,
+          4738
+        ],
+        [
+          5000,
+          4656
+        ]
+      ]
+    },
+    {
+      "id": 39058,
+      "url": "https://stage.neordinary.xyz/products/goods-39058",
+      "name": "극세사 망토형 똑딱이 무릎담요",
+      "minimumQuantity": 30,
+      "productionDays": [
+        1,
+        7
+      ],
+      "quantityPrices": [
+        [
+          30,
+          8515
+        ],
+        [
+          50,
+          8320
+        ],
+        [
+          100,
+          8125
+        ],
+        [
+          300,
+          7930
+        ],
+        [
+          500,
+          7735
+        ],
+        [
+          1000,
+          7540
+        ],
+        [
+          3000,
+          7345
+        ]
+      ]
+    },
+    {
+      "id": 26938,
+      "url": "https://stage.neordinary.xyz/products/goods-26938",
+      "name": "락앤락 메트로 투웨이 텀블러 475ml",
+      "minimumQuantity": 10,
+      "productionDays": [
+        5,
+        7
+      ],
+      "quantityPrices": [
+        [
+          10,
+          25165
+        ],
+        [
+          30,
+          24589
+        ],
+        [
+          50,
+          24013
+        ],
+        [
+          100,
+          23436
+        ],
+        [
+          200,
+          22860
+        ],
+        [
+          300,
+          22284
+        ],
+        [
+          500,
+          21707
+        ]
+      ]
+    },
+    {
+      "id": 17592,
+      "url": "https://stage.neordinary.xyz/products/goods-17592",
+      "name": "파스텔라 PS10 3단 자동 거꾸로 우산",
+      "minimumQuantity": 10,
+      "productionDays": [
+        4,
+        5
+      ],
+      "quantityPrices": [
+        [
+          10,
+          13000
+        ],
+        [
+          20,
+          12600
+        ],
+        [
+          30,
+          12300
+        ],
+        [
+          50,
+          12000
+        ],
+        [
+          100,
+          11800
+        ],
+        [
+          300,
+          11500
+        ],
+        [
+          500,
+          11300
+        ]
+      ]
+    },
+    {
+      "id": 18788,
+      "url": "https://stage.neordinary.xyz/products/goods-18788",
+      "name": "어프로치 플래너 2.0 스탠다드",
+      "minimumQuantity": 30,
+      "productionDays": [
+        7,
+        21
+      ],
+      "quantityPrices": [
+        [
+          30,
+          8190
+        ],
+        [
+          50,
+          7938
+        ],
+        [
+          100,
+          7749
+        ],
+        [
+          200,
+          7560
+        ],
+        [
+          300,
+          7434
+        ],
+        [
+          500,
+          7245
+        ],
+        [
+          1000,
+          7119
+        ]
+      ]
+    },
+    {
+      "id": 31313,
+      "url": "https://stage.neordinary.xyz/products/goods-31313",
+      "name": "겨울 행사 대용량 핫팩 150g",
+      "minimumQuantity": 300,
+      "productionDays": [
+        5,
+        7
+      ],
+      "quantityPrices": [
+        [
+          300,
+          581
+        ],
+        [
+          500,
+          550
+        ],
+        [
+          1000,
+          538
+        ],
+        [
+          2000,
+          525
+        ],
+        [
+          3000,
+          512
+        ],
+        [
+          5000,
+          495
+        ],
+        [
+          10000,
+          486
+        ]
+      ]
+    }
+  ]
+}
